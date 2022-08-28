@@ -1,2 +1,4 @@
-# Cool-Weather
- Mobile Platform Application Development (2018)
+# Cool Weather
+## Tianjin University
+### Hao Fu
+#### 3016218083@tju.edu.cn
